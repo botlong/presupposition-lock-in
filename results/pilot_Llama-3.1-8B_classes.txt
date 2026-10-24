@@ -1,0 +1,18 @@
+# Llama-3.1-8B-Instruct difficulty-class pilot (baseline "none" condition only; 60 claims per class).
+# Recorded stdout of `python scripts/gen_arith_llama.py pilot <Llama-3.1-8B-Instruct>` (2026-10-22,
+# single RTX 4090, bfloat16), run in two rounds. accT/accF = accuracy on true/false claims;
+# meanT/meanF = mean log-odds; |lo|<2 = share of items within |log-odds| < 2; sep = meanT - meanF.
+# Chosen class: a33 (3-digit addition), the only class with an uncertain prior on both gold classes.
+# round 1 (PILOT1, multiplication)
+m22   accT=0.00 accF=1.00 meanT=-5.80 meanF=-6.72 |lo|<2: 0.02  sep(T-F)=+0.92
+m23   accT=0.00 accF=1.00 meanT=-4.96 meanF=-5.90 |lo|<2: 0.02  sep(T-F)=+0.93
+m22b  accT=0.00 accF=1.00 meanT=-5.58 meanF=-6.61 |lo|<2: 0.00  sep(T-F)=+1.03
+m23s  accT=0.00 accF=1.00 meanT=-5.22 meanF=-5.68 |lo|<2: 0.00  sep(T-F)=+0.47
+m33   accT=0.00 accF=1.00 meanT=-6.19 meanF=-6.08 |lo|<2: 0.00  sep(T-F)=-0.10
+# round 2 (CLASSES)
+m12   accT=0.17 accF=0.97 meanT=-3.36 meanF=-6.85 |lo|<2: 0.10  sep(T-F)=+3.49
+m12b  accT=0.07 accF=1.00 meanT=-4.16 meanF=-7.05 |lo|<2: 0.10  sep(T-F)=+2.89
+m22s  accT=0.13 accF=1.00 meanT=-4.23 meanF=-7.47 |lo|<2: 0.05  sep(T-F)=+3.24
+a22   accT=0.00 accF=0.86 meanT=-4.69 meanF=-4.66 |lo|<2: 0.18  sep(T-F)=-0.03
+a33   accT=0.42 accF=0.69 meanT=-1.23 meanF=-1.76 |lo|<2: 0.48  sep(T-F)=+0.53
+sq2   accT=0.86 accF=1.00 meanT=+2.52 meanF=-7.51 |lo|<2: 0.08  sep(T-F)=+10.04

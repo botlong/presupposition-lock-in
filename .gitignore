@@ -1,0 +1,64 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+.venv-linux/
+venv/
+*.log
+*.egg-info/
+.pytest_cache/
+models/
+
+# model weights / HF cache — never commit (multi-GB)
+models/
+*.safetensors
+
+# generated run artifacts (keep results/ dir via .gitkeep)
+results/*.parquet
+results/report.md
+# analysis reports are internal docs (regenerable); keep out of git
+results/*.md
+# …EXCEPT the paper's canonical artifacts of record + their manifest (see results/README.md);
+# superseded runs (gate_*-Instruct.parquet, gate_multimodel.parquet, smoke/runs) stay local-only
+!results/README.md
+!results/gate_Qwen2.5-*_propositions.parquet
+!results/gate_Qwen2.5-*_arith_props.parquet
+!results/gate_Qwen2.5-*_arith_hard.parquet
+!results/gate_Mistral-7B-Instruct-v0.3.parquet
+# June-18 small-model gate — committed as provenance for the cross-run agreement claim only
+!results/gate_Qwen2.5-1.5B-Instruct.parquet
+!results/gate_Qwen2.5-7B-Instruct.parquet
+!results/channel_Qwen2.5-*.parquet
+!results/mitigation_Qwen2.5-*_arith_hard.parquet
+!results/selfgen_Qwen2.5-*.parquet
+!results/probe_invariance_Qwen2.5-*.parquet
+!results/downstream_harm_*.parquet
+!results/fluency_matched_*.parquet
+!results/verbalized_*.parquet
+!results/crossturn_gate_*.parquet
+!results/sampledread_Qwen2.5-*_arith_hard.parquet
+!results/crossturn_mit_Qwen2.5-*.parquet
+# Llama-3.1-8B third-family runs (main batch + Llama-matched set)
+!results/gate_Llama-3.1-8B_*.parquet
+!results/channel_Llama-3.1-8B_*.parquet
+!results/mitigation_Llama-3.1-8B_*.parquet
+# API credentials — one gitignored .env with standard names (see .env.example)
+.env
+results/*.out
+*.bbl
+*.blg
+
+# aclpubcheck output (transient margin/format check artifacts)
+errors-*.png
+errors-*.json
+
+# superseded run logs are local-only provenance (see results/README.md)
+results/superseded/*.log
+
+# local scratch: tectonic/MiKTeX binaries, page renders, build scratch (never commit)
+tmp/
+# stale build-artifact mirror
+output/
+
+# project docs (internal; per CLAUDE.md all non-README docs live here and are not committed)
+docs/

@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "actionlockin"
+version = "0.1.0"
+license = {text = "MIT"}
+requires-python = ">=3.11"
+# Core deps are LIGHT (CPU-only) so Tasks 0-8 install without GPU/torch.
+dependencies = [
+  "numpy", "pandas", "pyarrow", "scipy", "pyyaml",
+]
+
+[project.optional-dependencies]
+dev = ["pytest", "tokenizers"]
+gpu = ["torch", "transformers", "accelerate"]   # only needed for Tasks 9-10 (real models / GPU)
+extra = ["statsmodels"]                          # optional secondary robustness only
+paper = ["matplotlib"]                           # paper figure generation only
+
+[tool.setuptools]
+packages = ["actionlockin"]
+
+[tool.pytest.ini_options]
+addopts = "-q"

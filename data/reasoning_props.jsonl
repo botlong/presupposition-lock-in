@@ -1,0 +1,36 @@
+{"id":"r001","claim":"a bat and a ball cost $1.10 together and the bat costs $1.00 more than the ball, so the ball costs 10 cents","gold":false,"unrelated_claim":"the violin has four strings"}
+{"id":"r002","claim":"if 5 machines take 5 minutes to make 5 widgets, then 100 machines take 100 minutes to make 100 widgets","gold":false,"unrelated_claim":"copper conducts electricity"}
+{"id":"r003","claim":"a lily-pad patch doubles in size every day and covers a lake in 48 days, so it covers half the lake on day 24","gold":false,"unrelated_claim":"Paris is the capital of France"}
+{"id":"r004","claim":"17 multiplied by 24 equals 408","gold":true,"unrelated_claim":"a triangle has three sides"}
+{"id":"r005","claim":"18 multiplied by 23 equals 424","gold":false,"unrelated_claim":"the piano is a musical instrument"}
+{"id":"r006","claim":"the square root of 729 is 27","gold":true,"unrelated_claim":"honey is produced by bees"}
+{"id":"r007","claim":"the square root of 256 is 18","gold":false,"unrelated_claim":"a week has seven days"}
+{"id":"r008","claim":"2 raised to the power of 10 equals 1024","gold":true,"unrelated_claim":"iron is a metal"}
+{"id":"r009","claim":"2 raised to the power of 8 equals 512","gold":false,"unrelated_claim":"salt dissolves in water"}
+{"id":"r010","claim":"23 multiplied by 19 equals 437","gold":true,"unrelated_claim":"the heart pumps blood through the body"}
+{"id":"r011","claim":"13 multiplied by 17 equals 221","gold":true,"unrelated_claim":"oak is a type of tree"}
+{"id":"r012","claim":"the number 91 is a prime number","gold":false,"unrelated_claim":"a square has four sides"}
+{"id":"r013","claim":"the number 1001 is a prime number","gold":false,"unrelated_claim":"the Sun emits light"}
+{"id":"r014","claim":"the cube of 9 is 729","gold":true,"unrelated_claim":"a guitar has strings"}
+{"id":"r015","claim":"7 factorial equals 5040","gold":true,"unrelated_claim":"the Pacific is an ocean"}
+{"id":"r016","claim":"6 factorial equals 720","gold":true,"unrelated_claim":"glass is made primarily from sand"}
+{"id":"r017","claim":"the fraction 7/8 is greater than the fraction 11/13","gold":true,"unrelated_claim":"the Nile is a river"}
+{"id":"r018","claim":"the fraction 3/7 is greater than the fraction 4/9","gold":false,"unrelated_claim":"a hexagon has six sides"}
+{"id":"r019","claim":"2 raised to the power of 10 is greater than 10 raised to the power of 3","gold":true,"unrelated_claim":"milk contains calcium"}
+{"id":"r020","claim":"the year 1900 was a leap year","gold":false,"unrelated_claim":"the cello is a string instrument"}
+{"id":"r021","claim":"the year 2000 was a leap year","gold":true,"unrelated_claim":"granite is a rock"}
+{"id":"r022","claim":"if all bloops are razzies and all razzies are lazzies, then all bloops are lazzies","gold":true,"unrelated_claim":"the trumpet is a brass instrument"}
+{"id":"r023","claim":"if some A are B and some B are C, then it must follow that some A are C","gold":false,"unrelated_claim":"wood can float on water"}
+{"id":"r024","claim":"if no mammals are birds and all whales are mammals, then no whales are birds","gold":true,"unrelated_claim":"a pentagon has five sides"}
+{"id":"r025","claim":"111 multiplied by 111 equals 12321","gold":true,"unrelated_claim":"penguins are birds"}
+{"id":"r026","claim":"144 divided by 6 equals 24","gold":true,"unrelated_claim":"the flute is a woodwind instrument"}
+{"id":"r027","claim":"the sum 1234 plus 5678 equals 6912","gold":true,"unrelated_claim":"copper is an element"}
+{"id":"r028","claim":"the sum 1234 plus 5678 equals 6812","gold":false,"unrelated_claim":"the Amazon is a river"}
+{"id":"r029","claim":"19 multiplied by 21 equals 399","gold":true,"unrelated_claim":"steel contains iron"}
+{"id":"r030","claim":"the square root of 961 is 31","gold":true,"unrelated_claim":"a bicycle has two wheels"}
+{"id":"r031","claim":"15 percent of 80 is 12","gold":true,"unrelated_claim":"the saxophone is a wind instrument"}
+{"id":"r032","claim":"15 percent of 80 is 15","gold":false,"unrelated_claim":"a year has twelve months"}
+{"id":"r033","claim":"the next prime number after 13 is 17","gold":true,"unrelated_claim":"the harp is a string instrument"}
+{"id":"r034","claim":"the decimal 0.375 equals the fraction 3/8","gold":true,"unrelated_claim":"the kangaroo lives in Australia"}
+{"id":"r035","claim":"a 20 percent discount followed by another 20 percent discount equals a 40 percent total discount","gold":false,"unrelated_claim":"the drum is a percussion instrument"}
+{"id":"r036","claim":"if a shirt is discounted 25 percent to $30, then its original price was $40","gold":true,"unrelated_claim":"diamonds are very hard"}

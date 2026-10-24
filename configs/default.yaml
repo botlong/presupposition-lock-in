@@ -1,0 +1,14 @@
+# Config for the v1 calibrated-probability PILOT (actionlockin/run.py: mid-band filter, p_of_P).
+# The PAPER's confirmatory v2 numbers do NOT come from this entry point: they use the full claim
+# sets with the log-odds readout, via scripts/run_gpu_all.py (canonical per-model batch; 32B/72B on
+# rented GPUs) and scripts/gate_multimodel.py (earlier small-model gate). Models below are the three
+# paper models runnable on a local 12 GB GPU (7B/Mistral via CPU offload).
+models:
+  - Qwen/Qwen2.5-1.5B-Instruct
+  - Qwen/Qwen2.5-7B-Instruct
+  - mistralai/Mistral-7B-Instruct-v0.3
+device_map: auto           # 'auto' shards a ~70B across GPUs; a single 'cuda' string OOMs
+cache_dir: models/huggingface
+calibration: {low: 0.2, high: 0.8}
+dose_levels: [1, 2, 3]     # commitment presupposition strength; query framing is separate
+paths: {propositions: data/propositions.jsonl, results: results/runs.parquet}

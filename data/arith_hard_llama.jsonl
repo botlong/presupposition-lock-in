@@ -1,0 +1,100 @@
+{"id": "L001", "claim": "the sum of 796 and 461 equals 1256", "gold": false, "unrelated_claim": "copper conducts electricity"}
+{"id": "L002", "claim": "the sum of 943 and 347 equals 1290", "gold": true, "unrelated_claim": "Paris is the capital of France"}
+{"id": "L003", "claim": "the sum of 102 and 830 equals 931", "gold": false, "unrelated_claim": "a triangle has three sides"}
+{"id": "L004", "claim": "the sum of 303 and 298 equals 601", "gold": true, "unrelated_claim": "honey is produced by bees"}
+{"id": "L005", "claim": "the sum of 818 and 949 equals 1760", "gold": false, "unrelated_claim": "iron is a metal"}
+{"id": "L006", "claim": "the sum of 874 and 253 equals 1016", "gold": false, "unrelated_claim": "a week has seven days"}
+{"id": "L007", "claim": "the sum of 105 and 703 equals 808", "gold": true, "unrelated_claim": "the Pacific is an ocean"}
+{"id": "L008", "claim": "the sum of 244 and 698 equals 942", "gold": true, "unrelated_claim": "oak is a type of tree"}
+{"id": "L009", "claim": "the sum of 158 and 163 equals 318", "gold": false, "unrelated_claim": "salt dissolves in water"}
+{"id": "L010", "claim": "the sum of 568 and 166 equals 534", "gold": false, "unrelated_claim": "penguins are birds"}
+{"id": "L011", "claim": "the sum of 625 and 441 equals 1066", "gold": true, "unrelated_claim": "a square has four sides"}
+{"id": "L012", "claim": "the sum of 281 and 547 equals 830", "gold": false, "unrelated_claim": "the Sun emits light"}
+{"id": "L013", "claim": "the sum of 536 and 567 equals 1100", "gold": false, "unrelated_claim": "milk contains calcium"}
+{"id": "L014", "claim": "the sum of 974 and 495 equals 1468", "gold": false, "unrelated_claim": "granite is a rock"}
+{"id": "L015", "claim": "the sum of 989 and 173 equals 1162", "gold": true, "unrelated_claim": "the violin has four strings"}
+{"id": "L016", "claim": "the sum of 404 and 616 equals 1020", "gold": true, "unrelated_claim": "copper conducts electricity"}
+{"id": "L017", "claim": "the sum of 203 and 176 equals 379", "gold": true, "unrelated_claim": "Paris is the capital of France"}
+{"id": "L018", "claim": "the sum of 682 and 598 equals 1280", "gold": true, "unrelated_claim": "a triangle has three sides"}
+{"id": "L019", "claim": "the sum of 176 and 856 equals 1012", "gold": false, "unrelated_claim": "honey is produced by bees"}
+{"id": "L020", "claim": "the sum of 142 and 889 equals 1032", "gold": false, "unrelated_claim": "iron is a metal"}
+{"id": "L021", "claim": "the sum of 845 and 591 equals 1436", "gold": true, "unrelated_claim": "a week has seven days"}
+{"id": "L022", "claim": "the sum of 129 and 872 equals 1201", "gold": false, "unrelated_claim": "the Pacific is an ocean"}
+{"id": "L023", "claim": "the sum of 614 and 855 equals 1470", "gold": false, "unrelated_claim": "oak is a type of tree"}
+{"id": "L024", "claim": "the sum of 977 and 415 equals 1392", "gold": true, "unrelated_claim": "salt dissolves in water"}
+{"id": "L025", "claim": "the sum of 964 and 222 equals 1186", "gold": true, "unrelated_claim": "penguins are birds"}
+{"id": "L026", "claim": "the sum of 399 and 695 equals 894", "gold": false, "unrelated_claim": "a square has four sides"}
+{"id": "L027", "claim": "the sum of 893 and 114 equals 1007", "gold": true, "unrelated_claim": "the Sun emits light"}
+{"id": "L028", "claim": "the sum of 387 and 542 equals 929", "gold": true, "unrelated_claim": "milk contains calcium"}
+{"id": "L029", "claim": "the sum of 846 and 447 equals 1493", "gold": false, "unrelated_claim": "granite is a rock"}
+{"id": "L030", "claim": "the sum of 805 and 786 equals 1602", "gold": false, "unrelated_claim": "the violin has four strings"}
+{"id": "L031", "claim": "the sum of 865 and 779 equals 1844", "gold": false, "unrelated_claim": "copper conducts electricity"}
+{"id": "L032", "claim": "the sum of 506 and 957 equals 1483", "gold": false, "unrelated_claim": "Paris is the capital of France"}
+{"id": "L033", "claim": "the sum of 282 and 254 equals 736", "gold": false, "unrelated_claim": "a triangle has three sides"}
+{"id": "L034", "claim": "the sum of 398 and 562 equals 960", "gold": true, "unrelated_claim": "honey is produced by bees"}
+{"id": "L035", "claim": "the sum of 108 and 139 equals 258", "gold": false, "unrelated_claim": "iron is a metal"}
+{"id": "L036", "claim": "the sum of 789 and 651 equals 1438", "gold": false, "unrelated_claim": "a week has seven days"}
+{"id": "L037", "claim": "the sum of 914 and 867 equals 1881", "gold": false, "unrelated_claim": "the Pacific is an ocean"}
+{"id": "L038", "claim": "the sum of 803 and 979 equals 1671", "gold": false, "unrelated_claim": "oak is a type of tree"}
+{"id": "L039", "claim": "the sum of 351 and 680 equals 1231", "gold": false, "unrelated_claim": "salt dissolves in water"}
+{"id": "L040", "claim": "the sum of 691 and 480 equals 1171", "gold": true, "unrelated_claim": "penguins are birds"}
+{"id": "L041", "claim": "the sum of 514 and 444 equals 960", "gold": false, "unrelated_claim": "a square has four sides"}
+{"id": "L042", "claim": "the sum of 721 and 802 equals 1523", "gold": true, "unrelated_claim": "the Sun emits light"}
+{"id": "L043", "claim": "the sum of 850 and 376 equals 1426", "gold": false, "unrelated_claim": "milk contains calcium"}
+{"id": "L044", "claim": "the sum of 571 and 164 equals 732", "gold": false, "unrelated_claim": "granite is a rock"}
+{"id": "L045", "claim": "the sum of 324 and 602 equals 928", "gold": false, "unrelated_claim": "the violin has four strings"}
+{"id": "L046", "claim": "the sum of 200 and 308 equals 508", "gold": true, "unrelated_claim": "copper conducts electricity"}
+{"id": "L047", "claim": "the sum of 914 and 251 equals 1165", "gold": true, "unrelated_claim": "Paris is the capital of France"}
+{"id": "L048", "claim": "the sum of 534 and 478 equals 1012", "gold": true, "unrelated_claim": "a triangle has three sides"}
+{"id": "L049", "claim": "the sum of 858 and 499 equals 1357", "gold": true, "unrelated_claim": "honey is produced by bees"}
+{"id": "L050", "claim": "the sum of 412 and 931 equals 1343", "gold": true, "unrelated_claim": "iron is a metal"}
+{"id": "L051", "claim": "the sum of 198 and 769 equals 856", "gold": false, "unrelated_claim": "a week has seven days"}
+{"id": "L052", "claim": "the sum of 229 and 159 equals 388", "gold": true, "unrelated_claim": "the Pacific is an ocean"}
+{"id": "L053", "claim": "the sum of 282 and 860 equals 1142", "gold": true, "unrelated_claim": "oak is a type of tree"}
+{"id": "L054", "claim": "the sum of 538 and 474 equals 1012", "gold": true, "unrelated_claim": "salt dissolves in water"}
+{"id": "L055", "claim": "the sum of 163 and 710 equals 873", "gold": true, "unrelated_claim": "penguins are birds"}
+{"id": "L056", "claim": "the sum of 242 and 661 equals 803", "gold": false, "unrelated_claim": "a square has four sides"}
+{"id": "L057", "claim": "the sum of 623 and 669 equals 1292", "gold": true, "unrelated_claim": "the Sun emits light"}
+{"id": "L058", "claim": "the sum of 171 and 510 equals 678", "gold": false, "unrelated_claim": "milk contains calcium"}
+{"id": "L059", "claim": "the sum of 959 and 193 equals 1152", "gold": true, "unrelated_claim": "granite is a rock"}
+{"id": "L060", "claim": "the sum of 787 and 688 equals 1468", "gold": false, "unrelated_claim": "the violin has four strings"}
+{"id": "L061", "claim": "the sum of 669 and 776 equals 1448", "gold": false, "unrelated_claim": "copper conducts electricity"}
+{"id": "L062", "claim": "the sum of 676 and 445 equals 1121", "gold": true, "unrelated_claim": "Paris is the capital of France"}
+{"id": "L063", "claim": "the sum of 283 and 631 equals 914", "gold": true, "unrelated_claim": "a triangle has three sides"}
+{"id": "L064", "claim": "the sum of 694 and 457 equals 1150", "gold": false, "unrelated_claim": "honey is produced by bees"}
+{"id": "L065", "claim": "the sum of 664 and 655 equals 1319", "gold": true, "unrelated_claim": "iron is a metal"}
+{"id": "L066", "claim": "the sum of 413 and 228 equals 641", "gold": true, "unrelated_claim": "a week has seven days"}
+{"id": "L067", "claim": "the sum of 463 and 772 equals 1235", "gold": true, "unrelated_claim": "the Pacific is an ocean"}
+{"id": "L068", "claim": "the sum of 235 and 805 equals 1043", "gold": false, "unrelated_claim": "oak is a type of tree"}
+{"id": "L069", "claim": "the sum of 415 and 561 equals 1076", "gold": false, "unrelated_claim": "salt dissolves in water"}
+{"id": "L070", "claim": "the sum of 305 and 921 equals 1225", "gold": false, "unrelated_claim": "penguins are birds"}
+{"id": "L071", "claim": "the sum of 305 and 800 equals 1205", "gold": false, "unrelated_claim": "a square has four sides"}
+{"id": "L072", "claim": "the sum of 461 and 591 equals 1052", "gold": true, "unrelated_claim": "the Sun emits light"}
+{"id": "L073", "claim": "the sum of 943 and 233 equals 1176", "gold": true, "unrelated_claim": "milk contains calcium"}
+{"id": "L074", "claim": "the sum of 300 and 356 equals 656", "gold": true, "unrelated_claim": "granite is a rock"}
+{"id": "L075", "claim": "the sum of 683 and 712 equals 1397", "gold": false, "unrelated_claim": "the violin has four strings"}
+{"id": "L076", "claim": "the sum of 792 and 735 equals 1638", "gold": false, "unrelated_claim": "copper conducts electricity"}
+{"id": "L077", "claim": "the sum of 117 and 398 equals 495", "gold": false, "unrelated_claim": "Paris is the capital of France"}
+{"id": "L078", "claim": "the sum of 669 and 387 equals 1056", "gold": true, "unrelated_claim": "a triangle has three sides"}
+{"id": "L079", "claim": "the sum of 787 and 832 equals 1619", "gold": true, "unrelated_claim": "honey is produced by bees"}
+{"id": "L080", "claim": "the sum of 136 and 405 equals 541", "gold": true, "unrelated_claim": "iron is a metal"}
+{"id": "L081", "claim": "the sum of 637 and 657 equals 1291", "gold": false, "unrelated_claim": "a week has seven days"}
+{"id": "L082", "claim": "the sum of 196 and 878 equals 1074", "gold": true, "unrelated_claim": "the Pacific is an ocean"}
+{"id": "L083", "claim": "the sum of 923 and 384 equals 1307", "gold": true, "unrelated_claim": "oak is a type of tree"}
+{"id": "L084", "claim": "the sum of 402 and 865 equals 1067", "gold": false, "unrelated_claim": "salt dissolves in water"}
+{"id": "L085", "claim": "the sum of 312 and 498 equals 790", "gold": false, "unrelated_claim": "penguins are birds"}
+{"id": "L086", "claim": "the sum of 209 and 865 equals 874", "gold": false, "unrelated_claim": "a square has four sides"}
+{"id": "L087", "claim": "the sum of 828 and 565 equals 1393", "gold": true, "unrelated_claim": "the Sun emits light"}
+{"id": "L088", "claim": "the sum of 429 and 462 equals 891", "gold": true, "unrelated_claim": "milk contains calcium"}
+{"id": "L089", "claim": "the sum of 154 and 440 equals 595", "gold": false, "unrelated_claim": "granite is a rock"}
+{"id": "L090", "claim": "the sum of 205 and 458 equals 663", "gold": true, "unrelated_claim": "the violin has four strings"}
+{"id": "L091", "claim": "the sum of 365 and 779 equals 1144", "gold": true, "unrelated_claim": "copper conducts electricity"}
+{"id": "L092", "claim": "the sum of 352 and 774 equals 1126", "gold": true, "unrelated_claim": "Paris is the capital of France"}
+{"id": "L093", "claim": "the sum of 190 and 137 equals 327", "gold": true, "unrelated_claim": "a triangle has three sides"}
+{"id": "L094", "claim": "the sum of 910 and 384 equals 1283", "gold": false, "unrelated_claim": "honey is produced by bees"}
+{"id": "L095", "claim": "the sum of 626 and 158 equals 784", "gold": true, "unrelated_claim": "iron is a metal"}
+{"id": "L096", "claim": "the sum of 195 and 163 equals 358", "gold": true, "unrelated_claim": "a week has seven days"}
+{"id": "L097", "claim": "the sum of 831 and 267 equals 1097", "gold": false, "unrelated_claim": "the Pacific is an ocean"}
+{"id": "L098", "claim": "the sum of 336 and 573 equals 709", "gold": false, "unrelated_claim": "oak is a type of tree"}
+{"id": "L099", "claim": "the sum of 779 and 162 equals 921", "gold": false, "unrelated_claim": "salt dissolves in water"}
+{"id": "L100", "claim": "the sum of 441 and 522 equals 963", "gold": true, "unrelated_claim": "penguins are birds"}

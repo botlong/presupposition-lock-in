@@ -1,0 +1,35 @@
+{
+  "source": "sierra-research/tau2-bench@d8e915f data/tau2/results/final",
+  "files": [
+    "claude-3-7-sonnet-20250219_airline_default_gpt-4.1-2025-04-14_4trials.json",
+    "claude-3-7-sonnet-20250219_retail_default_gpt-4.1-2025-04-14_4trials.json",
+    "claude-3-7-sonnet-20250219_telecom_default_gpt-4.1-2025-04-14_4trials.json",
+    "gpt-4.1-2025-04-14_airline_default_gpt-4.1-2025-04-14_4trials.json",
+    "gpt-4.1-2025-04-14_retail_default_gpt-4.1-2025-04-14_4trials.json",
+    "gpt-4.1-2025-04-14_telecom_default_gpt-4.1-2025-04-14_4trials.json",
+    "gpt-4.1-mini-2025-04-14_airline_base_gpt-4.1-2025-04-14_4trials.json",
+    "gpt-4.1-mini-2025-04-14_retail_base_gpt-4.1-2025-04-14_4trials.json",
+    "gpt-4.1-mini-2025-04-14_telecom_base_gpt-4.1-2025-04-14_4trials.json",
+    "o4-mini-2025-04-16_airline_default_gpt-4.1-2025-04-14_4trials.json",
+    "o4-mini-2025-04-16_retail_default_gpt-4.1-2025-04-14_4trials.json",
+    "o4-mini-2025-04-16_telecom_default_gpt-4.1-2025-04-14_4trials.json"
+  ],
+  "min_words_free_text": 4,
+  "n_simulations": 4448,
+  "n_tool_calls": 38235,
+  "tool_calls_by_model": {
+    "claude-3-7-sonnet-20250219": 8390,
+    "gpt-4.1-2025-04-14": 8076,
+    "gpt-4.1-mini-2025-04-14": 13552,
+    "o4-mini-2025-04-16": 8217
+  },
+  "n_calls_with_free_text_argument": 1738,
+  "free_text_arguments_by_tool": {
+    "transfer_to_human_agents.summary": 1473,
+    "calculate.expression": 256,
+    "modify_user_address.address1": 4,
+    "suspend_line.reason": 3,
+    "modify_pending_order_address.address1": 1,
+    "send_payment_request.error": 1
+  }
+}

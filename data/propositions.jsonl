@@ -1,0 +1,120 @@
+{"id":"p001","claim":"octopuses have three hearts","gold":true,"unrelated_claim":"the violin has four strings"}
+{"id":"p002","claim":"a day on Venus is longer than a Venusian year","gold":true,"unrelated_claim":"copper conducts electricity"}
+{"id":"p003","claim":"wombats produce cube-shaped droppings","gold":true,"unrelated_claim":"Paris is the capital of France"}
+{"id":"p004","claim":"bananas are botanically classified as berries","gold":true,"unrelated_claim":"a triangle has three sides"}
+{"id":"p005","claim":"sharks existed on Earth before trees did","gold":true,"unrelated_claim":"the piano is a musical instrument"}
+{"id":"p006","claim":"lightning is several times hotter than the surface of the Sun","gold":true,"unrelated_claim":"honey is produced by bees"}
+{"id":"p007","claim":"Saturn is less dense than water","gold":true,"unrelated_claim":"a week has seven days"}
+{"id":"p008","claim":"Venus rotates in the opposite direction to most planets in the solar system","gold":true,"unrelated_claim":"iron is a metal"}
+{"id":"p009","claim":"polar bears have black skin underneath their fur","gold":true,"unrelated_claim":"salt dissolves in water"}
+{"id":"p010","claim":"the Greenland shark can live for more than 200 years","gold":true,"unrelated_claim":"the heart pumps blood through the body"}
+{"id":"p011","claim":"the heart of a shrimp is located in its head","gold":true,"unrelated_claim":"oak is a type of tree"}
+{"id":"p012","claim":"there are more possible games of chess than atoms in the observable universe","gold":true,"unrelated_claim":"a square has four sides"}
+{"id":"p013","claim":"Cleopatra lived closer in time to the first Moon landing than to the building of the Great Pyramid","gold":true,"unrelated_claim":"the Sun emits light"}
+{"id":"p014","claim":"there are more trees on Earth than stars in the Milky Way galaxy","gold":true,"unrelated_claim":"a guitar has strings"}
+{"id":"p015","claim":"Australia is wider than the diameter of the Moon","gold":true,"unrelated_claim":"the Pacific is an ocean"}
+{"id":"p016","claim":"the unicorn is the national animal of Scotland","gold":true,"unrelated_claim":"glass is made primarily from sand"}
+{"id":"p017","claim":"the dot over a lowercase letter i is called a tittle","gold":true,"unrelated_claim":"the Nile is a river"}
+{"id":"p018","claim":"the Spanish national anthem has no official lyrics","gold":true,"unrelated_claim":"a hexagon has six sides"}
+{"id":"p019","claim":"an ostrich's eye is larger than its brain","gold":true,"unrelated_claim":"milk contains calcium"}
+{"id":"p020","claim":"hot water can freeze faster than cold water under certain conditions","gold":true,"unrelated_claim":"the cello is a string instrument"}
+{"id":"p021","claim":"the shortest war in recorded history lasted less than an hour","gold":true,"unrelated_claim":"granite is a rock"}
+{"id":"p022","claim":"honeybees can be trained to detect certain explosives by smell","gold":true,"unrelated_claim":"the trumpet is a brass instrument"}
+{"id":"p023","claim":"a single bolt of lightning carries enough energy to toast tens of thousands of slices of bread","gold":true,"unrelated_claim":"wood can float on water"}
+{"id":"p024","claim":"some alkali metals can ignite or explode on contact with water","gold":true,"unrelated_claim":"a pentagon has five sides"}
+{"id":"p025","claim":"the Eiffel Tower can become more than 15 centimeters taller in summer heat","gold":true,"unrelated_claim":"penguins are birds"}
+{"id":"p026","claim":"a group of flamingos is called a flamboyance","gold":true,"unrelated_claim":"the flute is a woodwind instrument"}
+{"id":"p027","claim":"the tongue of a blue whale can weigh as much as an adult elephant","gold":true,"unrelated_claim":"copper is an element"}
+{"id":"p028","claim":"an octopus can taste things through its arms","gold":true,"unrelated_claim":"the Amazon is a river"}
+{"id":"p029","claim":"it is physically impossible for most people to hum while pinching their nose shut","gold":true,"unrelated_claim":"steel contains iron"}
+{"id":"p030","claim":"the surface area of Russia is larger than the surface area of the dwarf planet Pluto","gold":false,"unrelated_claim":"a bicycle has two wheels"}
+{"id":"p031","claim":"the Great Wall of China is the only man-made structure visible from space with the naked eye","gold":false,"unrelated_claim":"the saxophone is a wind instrument"}
+{"id":"p032","claim":"humans use only about ten percent of their brains","gold":false,"unrelated_claim":"a rectangle has four sides"}
+{"id":"p033","claim":"the adult human body has 213 bones","gold":false,"unrelated_claim":"oxygen is a gas at room temperature"}
+{"id":"p034","claim":"Mount Everest is the tallest mountain in the entire solar system","gold":false,"unrelated_claim":"the harp is a string instrument"}
+{"id":"p035","claim":"goldfish have a memory span of only a few seconds","gold":false,"unrelated_claim":"a meter is a unit of length"}
+{"id":"p036","claim":"bats are completely blind","gold":false,"unrelated_claim":"the drum is a percussion instrument"}
+{"id":"p037","claim":"Napoleon Bonaparte was unusually short for a Frenchman of his era","gold":false,"unrelated_claim":"diamonds are very hard"}
+{"id":"p038","claim":"on average a sleeping person swallows eight spiders per year","gold":false,"unrelated_claim":"the kangaroo lives in Australia"}
+{"id":"p039","claim":"human hair and fingernails keep growing for days after death","gold":false,"unrelated_claim":"the violin is smaller than the cello"}
+{"id":"p040","claim":"the capital of Turkey is Istanbul","gold":false,"unrelated_claim":"a triangle has three angles"}
+{"id":"p041","claim":"the capital of Brazil is Rio de Janeiro","gold":false,"unrelated_claim":"the oboe is a woodwind instrument"}
+{"id":"p042","claim":"the capital of Canada is Toronto","gold":false,"unrelated_claim":"helium is a gas"}
+{"id":"p043","claim":"Albert Einstein failed mathematics as a schoolboy","gold":false,"unrelated_claim":"a cube has six faces"}
+{"id":"p044","claim":"the human tongue has separate zones each dedicated to one basic taste","gold":false,"unrelated_claim":"the Pacific borders Asia"}
+{"id":"p045","claim":"cracking your knuckles is a major cause of arthritis","gold":false,"unrelated_claim":"the clarinet is a woodwind instrument"}
+{"id":"p046","claim":"the blood inside human veins is blue until it is exposed to oxygen","gold":false,"unrelated_claim":"a circle has no corners"}
+{"id":"p047","claim":"a newborn baby has fewer bones than an adult","gold":false,"unrelated_claim":"the tuba is a brass instrument"}
+{"id":"p048","claim":"the Sahara Desert is larger in area than the entire United States","gold":false,"unrelated_claim":"gold is a metal"}
+{"id":"p049","claim":"chameleons change color primarily to blend in with their surroundings","gold":false,"unrelated_claim":"a hexagon has six corners"}
+{"id":"p050","claim":"Mount Kilimanjaro is the highest mountain in the world","gold":false,"unrelated_claim":"the banjo has strings"}
+{"id":"p051","claim":"there are 50 countries on the continent of Africa","gold":false,"unrelated_claim":"a year has twelve months"}
+{"id":"p052","claim":"most diamonds are formed from compressed coal","gold":false,"unrelated_claim":"the recorder is a woodwind instrument"}
+{"id":"p053","claim":"a goldfish stays small only because the size of its tank biologically limits it","gold":false,"unrelated_claim":"mercury is a metal"}
+{"id":"p054","claim":"the Sun is composed mostly of burning liquid fire","gold":false,"unrelated_claim":"a octagon has eight sides"}
+{"id":"p055","claim":"the Eiffel Tower is taller than the Empire State Building","gold":false,"unrelated_claim":"the viola is a string instrument"}
+{"id":"p056","claim":"an octopus has six arms","gold":false,"unrelated_claim":"silver is a metal"}
+{"id":"p057","claim":"a penny dropped from a skyscraper can kill a pedestrian below","gold":false,"unrelated_claim":"the xylophone is a percussion instrument"}
+{"id":"p058","claim":"there are more public libraries than McDonald's restaurants in the United States","gold":true,"unrelated_claim":"the maracas are percussion instruments"}
+{"id":"p059","claim":"a snail can sleep for up to three years at a time","gold":true,"unrelated_claim":"a sphere is round"}
+{"id":"p060","claim":"the inventor of the Pringles packaging was partly buried in a Pringles can after his death","gold":true,"unrelated_claim":"the bassoon is a woodwind instrument"}
+{"id":"p061","claim":"there are more stars in the observable universe than grains of sand on all of Earth's beaches","gold":true,"unrelated_claim":"a decade is ten years"}
+{"id":"p062","claim":"the human nose can distinguish more than a trillion distinct smells","gold":true,"unrelated_claim":"the mandolin has strings"}
+{"id":"p063","claim":"the Greenland ice sheet contains enough water to raise global sea levels by several meters","gold":true,"unrelated_claim":"a century is one hundred years"}
+{"id":"p064","claim":"the speed of light is faster than the speed of sound","gold":true,"unrelated_claim":"the accordion is a musical instrument"}
+{"id":"p065","claim":"the freezing point of pure water is zero degrees Celsius at sea level","gold":true,"unrelated_claim":"a kilometer is a thousand meters"}
+{"id":"p066","claim":"the longest officially recognized place name in the world has more than 80 letters","gold":true,"unrelated_claim":"the harmonica is a wind instrument"}
+{"id":"p067","claim":"a 'jiffy' is an actual defined unit of time in physics","gold":true,"unrelated_claim":"bronze is an alloy"}
+{"id":"p068","claim":"hummingbirds are the only birds that can fly backwards in sustained flight","gold":true,"unrelated_claim":"a dozen is twelve"}
+{"id":"p069","claim":"the Mona Lisa has no clearly visible eyebrows","gold":true,"unrelated_claim":"the timpani are percussion instruments"}
+{"id":"p070","claim":"a hippopotamus can open its mouth wide enough to fit a small child inside","gold":true,"unrelated_claim":"a triangle is a polygon"}
+{"id":"p071","claim":"all mammals lay eggs","gold":false,"unrelated_claim":"the lute is a string instrument"}
+{"id":"p072","claim":"the Pacific Ocean is smaller than the Atlantic Ocean","gold":false,"unrelated_claim":"brass is an alloy"}
+{"id":"p073","claim":"water expands when it freezes into ice","gold":true,"unrelated_claim":"the violin has four strings"}
+{"id":"p074","claim":"the Sun is a star","gold":true,"unrelated_claim":"a square has four sides"}
+{"id":"p075","claim":"humans normally have 23 pairs of chromosomes","gold":true,"unrelated_claim":"copper conducts electricity"}
+{"id":"p076","claim":"light from the Sun takes about eight minutes to reach Earth","gold":true,"unrelated_claim":"the piano is a musical instrument"}
+{"id":"p077","claim":"the skin is the largest organ of the human body","gold":true,"unrelated_claim":"Paris is the capital of France"}
+{"id":"p078","claim":"sound travels faster in water than in air","gold":true,"unrelated_claim":"a triangle has three sides"}
+{"id":"p079","claim":"the chemical symbol for sodium is Na","gold":true,"unrelated_claim":"the cello is a string instrument"}
+{"id":"p080","claim":"the Mona Lisa was painted by Leonardo da Vinci","gold":true,"unrelated_claim":"iron is a metal"}
+{"id":"p081","claim":"World War II ended in 1945","gold":true,"unrelated_claim":"honey is produced by bees"}
+{"id":"p082","claim":"penguins live primarily in the Southern Hemisphere","gold":true,"unrelated_claim":"a hexagon has six sides"}
+{"id":"p083","claim":"Mercury is the closest planet to the Sun","gold":true,"unrelated_claim":"the trumpet is a brass instrument"}
+{"id":"p084","claim":"photosynthesis releases oxygen as a byproduct","gold":true,"unrelated_claim":"salt dissolves in water"}
+{"id":"p085","claim":"Saturn has a prominent system of rings","gold":true,"unrelated_claim":"a week has seven days"}
+{"id":"p086","claim":"the boiling point of water decreases at higher altitude","gold":true,"unrelated_claim":"the flute is a woodwind instrument"}
+{"id":"p087","claim":"diamond is one of the hardest known natural materials","gold":true,"unrelated_claim":"granite is a rock"}
+{"id":"p088","claim":"the human heart has four chambers","gold":true,"unrelated_claim":"the Sun emits light"}
+{"id":"p089","claim":"the Amazon is the largest rainforest on Earth","gold":true,"unrelated_claim":"a pentagon has five sides"}
+{"id":"p090","claim":"helium is the second most abundant element in the universe","gold":true,"unrelated_claim":"wood can float on water"}
+{"id":"p091","claim":"the Pacific Ocean is the largest ocean on Earth","gold":true,"unrelated_claim":"the guitar has strings"}
+{"id":"p092","claim":"an adult human heart beats roughly 60 to 100 times per minute at rest","gold":true,"unrelated_claim":"oak is a type of tree"}
+{"id":"p093","claim":"the Earth completes one rotation about every 24 hours","gold":true,"unrelated_claim":"the saxophone is a wind instrument"}
+{"id":"p094","claim":"DNA is composed of four types of nucleotide bases","gold":true,"unrelated_claim":"a cube has six faces"}
+{"id":"p095","claim":"Mount Everest is located in the Himalayas","gold":true,"unrelated_claim":"the harp is a string instrument"}
+{"id":"p096","claim":"the Great Pyramid of Giza is located in Egypt","gold":true,"unrelated_claim":"milk contains calcium"}
+{"id":"p097","claim":"the Sun orbits around the Earth","gold":false,"unrelated_claim":"a year has twelve months"}
+{"id":"p098","claim":"humans can breathe underwater without any equipment","gold":false,"unrelated_claim":"the oboe is a woodwind instrument"}
+{"id":"p099","claim":"spiders are insects","gold":false,"unrelated_claim":"helium is a gas"}
+{"id":"p100","claim":"gold is strongly attracted to magnets","gold":false,"unrelated_claim":"the drum is a percussion instrument"}
+{"id":"p101","claim":"the Moon generates its own light","gold":false,"unrelated_claim":"a circle has no corners"}
+{"id":"p102","claim":"whales are a kind of fish","gold":false,"unrelated_claim":"steel contains iron"}
+{"id":"p103","claim":"the chemical symbol for gold is Gd","gold":false,"unrelated_claim":"the tuba is a brass instrument"}
+{"id":"p104","claim":"a decade is a period of one hundred years","gold":false,"unrelated_claim":"the Andes are in South America"}
+{"id":"p105","claim":"Antarctica is the hottest continent on Earth","gold":false,"unrelated_claim":"the banjo has strings"}
+{"id":"p106","claim":"diamonds are softer than chalk","gold":false,"unrelated_claim":"bronze is an alloy"}
+{"id":"p107","claim":"the Sun is smaller in diameter than the Earth","gold":false,"unrelated_claim":"the recorder is a woodwind instrument"}
+{"id":"p108","claim":"adult humans have functional gills for breathing underwater","gold":false,"unrelated_claim":"mercury is a metal"}
+{"id":"p109","claim":"the capital of the United States is New York City","gold":false,"unrelated_claim":"an octagon has eight sides"}
+{"id":"p110","claim":"Mars has stronger surface gravity than Earth","gold":false,"unrelated_claim":"the viola is a string instrument"}
+{"id":"p111","claim":"the Atlantic is the largest ocean on Earth","gold":false,"unrelated_claim":"silver is a metal"}
+{"id":"p112","claim":"sound cannot travel through solid materials","gold":false,"unrelated_claim":"the xylophone is a percussion instrument"}
+{"id":"p113","claim":"the human heart is located inside the skull","gold":false,"unrelated_claim":"a sphere is round"}
+{"id":"p114","claim":"glass is classified as a metal","gold":false,"unrelated_claim":"the maracas are percussion instruments"}
+{"id":"p115","claim":"lightning is colder than a block of ice","gold":false,"unrelated_claim":"a decade is ten years"}
+{"id":"p116","claim":"Mount Everest lies entirely underwater","gold":false,"unrelated_claim":"the bassoon is a woodwind instrument"}
+{"id":"p117","claim":"the Earth is at the exact center of the solar system","gold":false,"unrelated_claim":"a century is one hundred years"}
+{"id":"p118","claim":"a triangle has four sides","gold":false,"unrelated_claim":"the accordion is a musical instrument"}
+{"id":"p119","claim":"humans typically have three lungs","gold":false,"unrelated_claim":"the mandolin has strings"}
+{"id":"p120","claim":"the freezing point of water is higher than its boiling point at sea level","gold":false,"unrelated_claim":"a kilometer is a thousand meters"}

@@ -1,0 +1,196 @@
+{"id": "a001", "claim": "the square of 82 equals 6724", "gold": true, "unrelated_claim": "copper conducts electricity"}
+{"id": "a002", "claim": "39 multiplied by 95 equals 3707", "gold": false, "unrelated_claim": "Paris is the capital of France"}
+{"id": "a003", "claim": "15 percent of 200 equals 27", "gold": false, "unrelated_claim": "a triangle has three sides"}
+{"id": "a004", "claim": "40 multiplied by 42 equals 1680", "gold": true, "unrelated_claim": "honey is produced by bees"}
+{"id": "a005", "claim": "65 multiplied by 272 equals 17690", "gold": false, "unrelated_claim": "iron is a metal"}
+{"id": "a006", "claim": "51 multiplied by 77 equals 3907", "gold": false, "unrelated_claim": "a week has seven days"}
+{"id": "a007", "claim": "15 percent of 200 equals 30", "gold": true, "unrelated_claim": "the Pacific is an ocean"}
+{"id": "a008", "claim": "74 multiplied by 74 equals 5474", "gold": false, "unrelated_claim": "oak is a type of tree"}
+{"id": "a009", "claim": "28 multiplied by 56 equals 1559", "gold": false, "unrelated_claim": "salt dissolves in water"}
+{"id": "a010", "claim": "25 percent of 200 equals 41", "gold": false, "unrelated_claim": "penguins are birds"}
+{"id": "a011", "claim": "the square of 72 equals 5182", "gold": false, "unrelated_claim": "a square has four sides"}
+{"id": "a012", "claim": "35 percent of 60 equals 21", "gold": true, "unrelated_claim": "the Sun emits light"}
+{"id": "a013", "claim": "the square of 55 equals 3025", "gold": true, "unrelated_claim": "milk contains calcium"}
+{"id": "a014", "claim": "33 multiplied by 370 equals 12210", "gold": true, "unrelated_claim": "granite is a rock"}
+{"id": "a015", "claim": "the sum of 4656 and 4510 equals 9166", "gold": true, "unrelated_claim": "the violin has four strings"}
+{"id": "a016", "claim": "25 multiplied by 69 equals 1723", "gold": false, "unrelated_claim": "copper conducts electricity"}
+{"id": "a017", "claim": "96 multiplied by 83 equals 8058", "gold": false, "unrelated_claim": "Paris is the capital of France"}
+{"id": "a018", "claim": "59 multiplied by 38 equals 2142", "gold": false, "unrelated_claim": "a triangle has three sides"}
+{"id": "a019", "claim": "82 multiplied by 135 equals 11160", "gold": false, "unrelated_claim": "honey is produced by bees"}
+{"id": "a020", "claim": "the sum of 9330 and 9836 equals 19166", "gold": true, "unrelated_claim": "iron is a metal"}
+{"id": "a021", "claim": "27 multiplied by 31 equals 837", "gold": true, "unrelated_claim": "a week has seven days"}
+{"id": "a022", "claim": "60 multiplied by 70 equals 4202", "gold": false, "unrelated_claim": "the Pacific is an ocean"}
+{"id": "a023", "claim": "90 multiplied by 46 equals 4158", "gold": false, "unrelated_claim": "oak is a type of tree"}
+{"id": "a024", "claim": "46 multiplied by 15 equals 708", "gold": false, "unrelated_claim": "salt dissolves in water"}
+{"id": "a025", "claim": "70 multiplied by 205 equals 14350", "gold": true, "unrelated_claim": "penguins are birds"}
+{"id": "a026", "claim": "the square of 34 equals 1174", "gold": false, "unrelated_claim": "a square has four sides"}
+{"id": "a027", "claim": "the square of 25 equals 635", "gold": false, "unrelated_claim": "the Sun emits light"}
+{"id": "a028", "claim": "the square of 57 equals 3251", "gold": false, "unrelated_claim": "milk contains calcium"}
+{"id": "a029", "claim": "the sum of 8225 and 2009 equals 10243", "gold": false, "unrelated_claim": "granite is a rock"}
+{"id": "a030", "claim": "66 multiplied by 89 equals 5874", "gold": true, "unrelated_claim": "the violin has four strings"}
+{"id": "a031", "claim": "98 multiplied by 385 equals 37630", "gold": false, "unrelated_claim": "copper conducts electricity"}
+{"id": "a032", "claim": "the sum of 5799 and 9935 equals 15644", "gold": false, "unrelated_claim": "Paris is the capital of France"}
+{"id": "a033", "claim": "the square of 77 equals 5929", "gold": true, "unrelated_claim": "a triangle has three sides"}
+{"id": "a034", "claim": "the square of 31 equals 961", "gold": true, "unrelated_claim": "honey is produced by bees"}
+{"id": "a035", "claim": "84 multiplied by 99 equals 8316", "gold": true, "unrelated_claim": "iron is a metal"}
+{"id": "a036", "claim": "the square of 44 equals 1936", "gold": true, "unrelated_claim": "a week has seven days"}
+{"id": "a037", "claim": "82 multiplied by 16 equals 1294", "gold": false, "unrelated_claim": "the Pacific is an ocean"}
+{"id": "a038", "claim": "82 multiplied by 40 equals 3262", "gold": false, "unrelated_claim": "oak is a type of tree"}
+{"id": "a039", "claim": "the square of 30 equals 899", "gold": false, "unrelated_claim": "salt dissolves in water"}
+{"id": "a040", "claim": "the sum of 2506 and 5927 equals 8433", "gold": true, "unrelated_claim": "penguins are birds"}
+{"id": "a041", "claim": "the square of 13 equals 169", "gold": true, "unrelated_claim": "a square has four sides"}
+{"id": "a042", "claim": "73 multiplied by 26 equals 1898", "gold": true, "unrelated_claim": "the Sun emits light"}
+{"id": "a043", "claim": "88 multiplied by 361 equals 31750", "gold": false, "unrelated_claim": "milk contains calcium"}
+{"id": "a044", "claim": "the sum of 4390 and 5993 equals 10403", "gold": false, "unrelated_claim": "granite is a rock"}
+{"id": "a045", "claim": "the sum of 3013 and 4493 equals 7506", "gold": true, "unrelated_claim": "the violin has four strings"}
+{"id": "a046", "claim": "38 multiplied by 27 equals 926", "gold": false, "unrelated_claim": "copper conducts electricity"}
+{"id": "a047", "claim": "95 multiplied by 28 equals 2660", "gold": true, "unrelated_claim": "Paris is the capital of France"}
+{"id": "a048", "claim": "the square of 70 equals 4900", "gold": true, "unrelated_claim": "a triangle has three sides"}
+{"id": "a049", "claim": "the sum of 8560 and 5381 equals 13941", "gold": true, "unrelated_claim": "honey is produced by bees"}
+{"id": "a050", "claim": "29 multiplied by 204 equals 5916", "gold": true, "unrelated_claim": "iron is a metal"}
+{"id": "a051", "claim": "44 multiplied by 209 equals 9196", "gold": true, "unrelated_claim": "a week has seven days"}
+{"id": "a052", "claim": "the square of 50 equals 2502", "gold": false, "unrelated_claim": "the Pacific is an ocean"}
+{"id": "a053", "claim": "46 multiplied by 21 equals 1056", "gold": false, "unrelated_claim": "oak is a type of tree"}
+{"id": "a054", "claim": "the sum of 3317 and 3924 equals 7238", "gold": false, "unrelated_claim": "salt dissolves in water"}
+{"id": "a055", "claim": "45 percent of 240 equals 126", "gold": false, "unrelated_claim": "penguins are birds"}
+{"id": "a056", "claim": "37 multiplied by 154 equals 5689", "gold": false, "unrelated_claim": "a square has four sides"}
+{"id": "a057", "claim": "35 multiplied by 18 equals 633", "gold": false, "unrelated_claim": "the Sun emits light"}
+{"id": "a058", "claim": "the square of 27 equals 728", "gold": false, "unrelated_claim": "milk contains calcium"}
+{"id": "a059", "claim": "the sum of 4678 and 9428 equals 14106", "gold": true, "unrelated_claim": "granite is a rock"}
+{"id": "a060", "claim": "19 multiplied by 269 equals 5021", "gold": false, "unrelated_claim": "the violin has four strings"}
+{"id": "a061", "claim": "the square of 39 equals 1503", "gold": false, "unrelated_claim": "copper conducts electricity"}
+{"id": "a062", "claim": "the square of 49 equals 2401", "gold": true, "unrelated_claim": "Paris is the capital of France"}
+{"id": "a063", "claim": "37 multiplied by 58 equals 2128", "gold": false, "unrelated_claim": "a triangle has three sides"}
+{"id": "a065", "claim": "the sum of 6802 and 5455 equals 12347", "gold": false, "unrelated_claim": "iron is a metal"}
+{"id": "a066", "claim": "the sum of 1252 and 8302 equals 9654", "gold": false, "unrelated_claim": "a week has seven days"}
+{"id": "a067", "claim": "42 multiplied by 30 equals 1260", "gold": true, "unrelated_claim": "the Pacific is an ocean"}
+{"id": "a068", "claim": "51 multiplied by 81 equals 4122", "gold": false, "unrelated_claim": "oak is a type of tree"}
+{"id": "a069", "claim": "the sum of 2765 and 1988 equals 4753", "gold": true, "unrelated_claim": "salt dissolves in water"}
+{"id": "a070", "claim": "52 multiplied by 237 equals 12414", "gold": false, "unrelated_claim": "penguins are birds"}
+{"id": "a071", "claim": "40 multiplied by 35 equals 1400", "gold": true, "unrelated_claim": "a square has four sides"}
+{"id": "a072", "claim": "the square of 46 equals 2116", "gold": true, "unrelated_claim": "the Sun emits light"}
+{"id": "a073", "claim": "the sum of 1426 and 9428 equals 10854", "gold": true, "unrelated_claim": "milk contains calcium"}
+{"id": "a074", "claim": "the sum of 2978 and 8290 equals 11248", "gold": false, "unrelated_claim": "granite is a rock"}
+{"id": "a075", "claim": "25 percent of 60 equals 15", "gold": true, "unrelated_claim": "the violin has four strings"}
+{"id": "a076", "claim": "57 multiplied by 61 equals 3468", "gold": false, "unrelated_claim": "copper conducts electricity"}
+{"id": "a077", "claim": "the square of 61 equals 3723", "gold": false, "unrelated_claim": "Paris is the capital of France"}
+{"id": "a078", "claim": "35 multiplied by 18 equals 630", "gold": true, "unrelated_claim": "a triangle has three sides"}
+{"id": "a079", "claim": "62 multiplied by 341 equals 21142", "gold": true, "unrelated_claim": "honey is produced by bees"}
+{"id": "a080", "claim": "15 multiplied by 38 equals 480", "gold": false, "unrelated_claim": "iron is a metal"}
+{"id": "a081", "claim": "the square of 83 equals 6880", "gold": false, "unrelated_claim": "a week has seven days"}
+{"id": "a082", "claim": "39 multiplied by 165 equals 6435", "gold": true, "unrelated_claim": "the Pacific is an ocean"}
+{"id": "a083", "claim": "5 percent of 60 equals 1", "gold": false, "unrelated_claim": "oak is a type of tree"}
+{"id": "a084", "claim": "33 multiplied by 38 equals 1256", "gold": false, "unrelated_claim": "salt dissolves in water"}
+{"id": "a085", "claim": "24 multiplied by 27 equals 558", "gold": false, "unrelated_claim": "penguins are birds"}
+{"id": "a086", "claim": "81 multiplied by 358 equals 29001", "gold": false, "unrelated_claim": "a square has four sides"}
+{"id": "a087", "claim": "15 percent of 240 equals 35", "gold": false, "unrelated_claim": "the Sun emits light"}
+{"id": "a088", "claim": "the sum of 6913 and 1548 equals 8461", "gold": true, "unrelated_claim": "milk contains calcium"}
+{"id": "a089", "claim": "40 multiplied by 120 equals 4700", "gold": false, "unrelated_claim": "granite is a rock"}
+{"id": "a090", "claim": "25 percent of 200 equals 50", "gold": true, "unrelated_claim": "the violin has four strings"}
+{"id": "a091", "claim": "87 multiplied by 273 equals 23731", "gold": false, "unrelated_claim": "copper conducts electricity"}
+{"id": "a092", "claim": "45 multiplied by 48 equals 2158", "gold": false, "unrelated_claim": "Paris is the capital of France"}
+{"id": "a093", "claim": "96 multiplied by 479 equals 45966", "gold": false, "unrelated_claim": "a triangle has three sides"}
+{"id": "a094", "claim": "16 multiplied by 486 equals 7776", "gold": true, "unrelated_claim": "honey is produced by bees"}
+{"id": "a095", "claim": "the sum of 7592 and 4291 equals 11883", "gold": true, "unrelated_claim": "iron is a metal"}
+{"id": "a096", "claim": "the square of 51 equals 2601", "gold": true, "unrelated_claim": "a week has seven days"}
+{"id": "a097", "claim": "the square of 34 equals 1156", "gold": true, "unrelated_claim": "the Pacific is an ocean"}
+{"id": "a098", "claim": "32 multiplied by 220 equals 7039", "gold": false, "unrelated_claim": "oak is a type of tree"}
+{"id": "a099", "claim": "31 multiplied by 67 equals 2059", "gold": false, "unrelated_claim": "salt dissolves in water"}
+{"id": "a100", "claim": "25 multiplied by 16 equals 400", "gold": true, "unrelated_claim": "penguins are birds"}
+{"id": "a101", "claim": "39 multiplied by 75 equals 2926", "gold": false, "unrelated_claim": "a square has four sides"}
+{"id": "a102", "claim": "49 multiplied by 98 equals 4802", "gold": true, "unrelated_claim": "the Sun emits light"}
+{"id": "a103", "claim": "the sum of 3124 and 4109 equals 7233", "gold": true, "unrelated_claim": "milk contains calcium"}
+{"id": "a104", "claim": "5 percent of 200 equals 10", "gold": true, "unrelated_claim": "granite is a rock"}
+{"id": "a105", "claim": "the square of 55 equals 3027", "gold": false, "unrelated_claim": "the violin has four strings"}
+{"id": "a106", "claim": "45 percent of 80 equals 16", "gold": false, "unrelated_claim": "copper conducts electricity"}
+{"id": "a107", "claim": "the square of 43 equals 1831", "gold": false, "unrelated_claim": "Paris is the capital of France"}
+{"id": "a108", "claim": "the sum of 2897 and 4973 equals 7861", "gold": false, "unrelated_claim": "a triangle has three sides"}
+{"id": "a109", "claim": "82 multiplied by 155 equals 12711", "gold": false, "unrelated_claim": "honey is produced by bees"}
+{"id": "a110", "claim": "56 multiplied by 32 equals 1792", "gold": true, "unrelated_claim": "iron is a metal"}
+{"id": "a111", "claim": "the sum of 9920 and 6272 equals 16193", "gold": false, "unrelated_claim": "a week has seven days"}
+{"id": "a112", "claim": "15 percent of 120 equals 36", "gold": false, "unrelated_claim": "the Pacific is an ocean"}
+{"id": "a113", "claim": "91 multiplied by 68 equals 6188", "gold": true, "unrelated_claim": "oak is a type of tree"}
+{"id": "a114", "claim": "the square of 67 equals 4489", "gold": true, "unrelated_claim": "salt dissolves in water"}
+{"id": "a115", "claim": "31 multiplied by 472 equals 14612", "gold": false, "unrelated_claim": "penguins are birds"}
+{"id": "a116", "claim": "59 multiplied by 169 equals 9971", "gold": true, "unrelated_claim": "a square has four sides"}
+{"id": "a117", "claim": "47 multiplied by 83 equals 3901", "gold": true, "unrelated_claim": "the Sun emits light"}
+{"id": "a118", "claim": "46 multiplied by 92 equals 4232", "gold": true, "unrelated_claim": "milk contains calcium"}
+{"id": "a119", "claim": "the square of 79 equals 6241", "gold": true, "unrelated_claim": "granite is a rock"}
+{"id": "a120", "claim": "35 percent of 40 equals 14", "gold": true, "unrelated_claim": "the violin has four strings"}
+{"id": "a121", "claim": "the sum of 7245 and 8236 equals 15481", "gold": true, "unrelated_claim": "copper conducts electricity"}
+{"id": "a122", "claim": "the sum of 7342 and 8000 equals 15342", "gold": true, "unrelated_claim": "Paris is the capital of France"}
+{"id": "a123", "claim": "75 multiplied by 312 equals 23400", "gold": true, "unrelated_claim": "a triangle has three sides"}
+{"id": "a124", "claim": "79 multiplied by 51 equals 4029", "gold": true, "unrelated_claim": "honey is produced by bees"}
+{"id": "a125", "claim": "61 multiplied by 166 equals 10126", "gold": true, "unrelated_claim": "iron is a metal"}
+{"id": "a126", "claim": "45 percent of 200 equals 90", "gold": true, "unrelated_claim": "a week has seven days"}
+{"id": "a127", "claim": "14 multiplied by 78 equals 1101", "gold": false, "unrelated_claim": "the Pacific is an ocean"}
+{"id": "a128", "claim": "31 multiplied by 46 equals 1424", "gold": false, "unrelated_claim": "oak is a type of tree"}
+{"id": "a129", "claim": "39 multiplied by 30 equals 1170", "gold": true, "unrelated_claim": "salt dissolves in water"}
+{"id": "a130", "claim": "12 multiplied by 358 equals 4294", "gold": false, "unrelated_claim": "penguins are birds"}
+{"id": "a131", "claim": "the square of 86 equals 7416", "gold": false, "unrelated_claim": "a square has four sides"}
+{"id": "a132", "claim": "73 multiplied by 67 equals 4891", "gold": true, "unrelated_claim": "the Sun emits light"}
+{"id": "a133", "claim": "19 multiplied by 19 equals 360", "gold": false, "unrelated_claim": "milk contains calcium"}
+{"id": "a134", "claim": "84 multiplied by 177 equals 14877", "gold": false, "unrelated_claim": "granite is a rock"}
+{"id": "a135", "claim": "15 percent of 40 equals 9", "gold": false, "unrelated_claim": "the violin has four strings"}
+{"id": "a136", "claim": "the sum of 5448 and 8786 equals 14334", "gold": false, "unrelated_claim": "copper conducts electricity"}
+{"id": "a137", "claim": "87 multiplied by 431 equals 37515", "gold": false, "unrelated_claim": "Paris is the capital of France"}
+{"id": "a138", "claim": "17 multiplied by 74 equals 1258", "gold": true, "unrelated_claim": "a triangle has three sides"}
+{"id": "a139", "claim": "the sum of 1490 and 9646 equals 11137", "gold": false, "unrelated_claim": "honey is produced by bees"}
+{"id": "a140", "claim": "25 percent of 300 equals 75", "gold": true, "unrelated_claim": "iron is a metal"}
+{"id": "a141", "claim": "the sum of 7347 and 2978 equals 10315", "gold": false, "unrelated_claim": "a week has seven days"}
+{"id": "a142", "claim": "25 percent of 150 equals 34", "gold": false, "unrelated_claim": "the Pacific is an ocean"}
+{"id": "a143", "claim": "97 multiplied by 62 equals 5994", "gold": false, "unrelated_claim": "oak is a type of tree"}
+{"id": "a144", "claim": "45 multiplied by 253 equals 11385", "gold": true, "unrelated_claim": "salt dissolves in water"}
+{"id": "a145", "claim": "34 multiplied by 86 equals 2824", "gold": false, "unrelated_claim": "penguins are birds"}
+{"id": "a146", "claim": "84 multiplied by 24 equals 2017", "gold": false, "unrelated_claim": "a square has four sides"}
+{"id": "a147", "claim": "43 multiplied by 297 equals 12751", "gold": false, "unrelated_claim": "the Sun emits light"}
+{"id": "a148", "claim": "28 multiplied by 244 equals 6832", "gold": true, "unrelated_claim": "milk contains calcium"}
+{"id": "a149", "claim": "49 multiplied by 217 equals 10633", "gold": true, "unrelated_claim": "granite is a rock"}
+{"id": "a150", "claim": "the sum of 7049 and 3031 equals 10082", "gold": false, "unrelated_claim": "the violin has four strings"}
+{"id": "a151", "claim": "5 percent of 150 equals 7", "gold": false, "unrelated_claim": "copper conducts electricity"}
+{"id": "a152", "claim": "45 percent of 240 equals 106", "gold": false, "unrelated_claim": "Paris is the capital of France"}
+{"id": "a153", "claim": "15 percent of 40 equals 6", "gold": true, "unrelated_claim": "a triangle has three sides"}
+{"id": "a154", "claim": "the square of 83 equals 6889", "gold": true, "unrelated_claim": "honey is produced by bees"}
+{"id": "a155", "claim": "72 multiplied by 60 equals 4320", "gold": true, "unrelated_claim": "iron is a metal"}
+{"id": "a156", "claim": "the square of 84 equals 7056", "gold": true, "unrelated_claim": "a week has seven days"}
+{"id": "a157", "claim": "64 multiplied by 45 equals 2880", "gold": true, "unrelated_claim": "the Pacific is an ocean"}
+{"id": "a158", "claim": "25 percent of 80 equals 20", "gold": true, "unrelated_claim": "oak is a type of tree"}
+{"id": "a159", "claim": "46 multiplied by 210 equals 9660", "gold": true, "unrelated_claim": "salt dissolves in water"}
+{"id": "a160", "claim": "the square of 14 equals 196", "gold": true, "unrelated_claim": "penguins are birds"}
+{"id": "a161", "claim": "15 percent of 150 equals 22", "gold": false, "unrelated_claim": "a square has four sides"}
+{"id": "a162", "claim": "69 multiplied by 36 equals 2484", "gold": true, "unrelated_claim": "the Sun emits light"}
+{"id": "a163", "claim": "42 multiplied by 31 equals 1302", "gold": true, "unrelated_claim": "milk contains calcium"}
+{"id": "a164", "claim": "35 multiplied by 47 equals 1645", "gold": true, "unrelated_claim": "granite is a rock"}
+{"id": "a165", "claim": "25 percent of 60 equals 18", "gold": false, "unrelated_claim": "the violin has four strings"}
+{"id": "a166", "claim": "70 multiplied by 96 equals 6720", "gold": true, "unrelated_claim": "copper conducts electricity"}
+{"id": "a167", "claim": "86 multiplied by 76 equals 6538", "gold": false, "unrelated_claim": "Paris is the capital of France"}
+{"id": "a168", "claim": "77 multiplied by 25 equals 1925", "gold": true, "unrelated_claim": "a triangle has three sides"}
+{"id": "a169", "claim": "17 multiplied by 82 equals 1385", "gold": false, "unrelated_claim": "honey is produced by bees"}
+{"id": "a170", "claim": "75 multiplied by 333 equals 24875", "gold": false, "unrelated_claim": "iron is a metal"}
+{"id": "a171", "claim": "35 percent of 40 equals 24", "gold": false, "unrelated_claim": "a week has seven days"}
+{"id": "a172", "claim": "the square of 53 equals 2809", "gold": true, "unrelated_claim": "the Pacific is an ocean"}
+{"id": "a173", "claim": "the square of 73 equals 5329", "gold": true, "unrelated_claim": "oak is a type of tree"}
+{"id": "a174", "claim": "47 multiplied by 23 equals 1081", "gold": true, "unrelated_claim": "salt dissolves in water"}
+{"id": "a175", "claim": "27 multiplied by 61 equals 1647", "gold": true, "unrelated_claim": "penguins are birds"}
+{"id": "a176", "claim": "the sum of 6013 and 9345 equals 15358", "gold": true, "unrelated_claim": "a square has four sides"}
+{"id": "a177", "claim": "48 multiplied by 21 equals 998", "gold": false, "unrelated_claim": "the Sun emits light"}
+{"id": "a178", "claim": "45 percent of 120 equals 54", "gold": true, "unrelated_claim": "milk contains calcium"}
+{"id": "a181", "claim": "61 multiplied by 53 equals 3233", "gold": true, "unrelated_claim": "copper conducts electricity"}
+{"id": "a182", "claim": "5 percent of 300 equals 12", "gold": false, "unrelated_claim": "Paris is the capital of France"}
+{"id": "a183", "claim": "20 multiplied by 19 equals 360", "gold": false, "unrelated_claim": "a triangle has three sides"}
+{"id": "a184", "claim": "the sum of 4146 and 9290 equals 13436", "gold": true, "unrelated_claim": "honey is produced by bees"}
+{"id": "a185", "claim": "45 multiplied by 90 equals 4059", "gold": false, "unrelated_claim": "iron is a metal"}
+{"id": "a187", "claim": "90 multiplied by 82 equals 7370", "gold": false, "unrelated_claim": "the Pacific is an ocean"}
+{"id": "a188", "claim": "81 multiplied by 97 equals 7860", "gold": false, "unrelated_claim": "oak is a type of tree"}
+{"id": "a189", "claim": "45 percent of 150 equals 47", "gold": false, "unrelated_claim": "salt dissolves in water"}
+{"id": "a190", "claim": "15 percent of 200 equals 32", "gold": false, "unrelated_claim": "penguins are birds"}
+{"id": "a191", "claim": "41 multiplied by 49 equals 2009", "gold": true, "unrelated_claim": "a square has four sides"}
+{"id": "a192", "claim": "70 multiplied by 72 equals 5040", "gold": true, "unrelated_claim": "the Sun emits light"}
+{"id": "a193", "claim": "37 multiplied by 191 equals 7157", "gold": false, "unrelated_claim": "milk contains calcium"}
+{"id": "a194", "claim": "the sum of 9502 and 4027 equals 13529", "gold": true, "unrelated_claim": "granite is a rock"}
+{"id": "a195", "claim": "5 percent of 120 equals 5", "gold": false, "unrelated_claim": "the violin has four strings"}
+{"id": "a196", "claim": "32 multiplied by 71 equals 2290", "gold": false, "unrelated_claim": "copper conducts electricity"}
+{"id": "a197", "claim": "66 multiplied by 114 equals 7524", "gold": true, "unrelated_claim": "Paris is the capital of France"}
+{"id": "a198", "claim": "53 multiplied by 67 equals 3551", "gold": true, "unrelated_claim": "a triangle has three sides"}
+{"id": "a199", "claim": "43 multiplied by 171 equals 7353", "gold": true, "unrelated_claim": "honey is produced by bees"}
+{"id": "a200", "claim": "63 multiplied by 78 equals 4914", "gold": true, "unrelated_claim": "iron is a metal"}
